@@ -1,0 +1,1 @@
+<FULL modified content of the cli.py file with the memory leak fixed>
